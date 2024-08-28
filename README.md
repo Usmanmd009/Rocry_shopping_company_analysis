@@ -57,4 +57,4 @@ This is a single sheet therefore data modeling was not carried out.
 
 ## Data Analysis and Visualization 
 
-![](salesdashboard.png)
+![](Screenshot .png)
