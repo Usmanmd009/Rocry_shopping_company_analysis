@@ -8,3 +8,53 @@ Rocry shopping is your one-stop destination for all your shopping needs. that of
 
 
 ![](grocery.jpg)
+
+
+## Problem Statement 
+
+The Objectives of this analysis is to calculate. 
+- Total Customers
+
+- Total Orders
+
+- Top Orders by State
+
+- Orders by gender
+
+- Sales by marital status
+
+
+![](Health.jpg)
+
+ ## Skills Demostrated
+
+
+  The following skills are demostrated
+
+  - Excel for data profiling
+    
+  - PivotTable for KPIs
+    
+  - Silcers for filtering
+    
+  - Excel for data visualization
+
+## Data Sourcing 
+![](datasets0.jpg)
+
+
+The dataset, sourced from online , is a CSV file containing a single table with 13 columns and 11,252 rows. To facilitate analysis, an 'age group' category was added to the dataset.
+
+
+## Data Transformation 
+
+The is a clean data. 
+
+
+## Data modeling 
+This is a single sheet therefore data modeling was not carried out. 
+
+
+## Data Analysis and Visualization 
+
+![](salesdashboard.png)
