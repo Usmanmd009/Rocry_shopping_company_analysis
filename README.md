@@ -44,7 +44,7 @@ The Objectives of this analysis is to calculate.
 
 
 The dataset, sourced from online , is a CSV file containing a single table with 13 columns and 11,252 rows. To facilitate analysis, an 'age group' category was added to the dataset.
-
+![](center.webp)
 
 ## Data Transformation 
 
@@ -72,3 +72,22 @@ This is a single sheet therefore data modeling was not carried out.
 - Uttar pradesh tops the highest sales by state
 
 ![](NINTCHDBPICT000701855690.jpg)
+
+## Conclusion And Recommendations
+
+Introduce new products and categories to attract a wider customer base and increase average transaction values.
+
+Streamline logistics, negotiate better deals with suppliers, and consider implementing a just-in-time inventory system.
+
+Develop targeted campaigns to increase brand awareness, drive sales, and attract new customers.
+
+Implement loyalty programs, improve store layouts, and invest in employee training to boost customer satisfaction.
+
+Continuously track key performance indicators (KPIs) and make data-driven decisions to address areas of improvement.
+
+By implementing these recommendations, Rocry shopping company can address its weaknesses, capitalize on its strengths, and drive business growth and success.
+
+![](ima09.jpg)
+
+
+
