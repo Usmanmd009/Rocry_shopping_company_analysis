@@ -58,3 +58,17 @@ This is a single sheet therefore data modeling was not carried out.
 ## Data Analysis and Visualization 
 
 ![](Screenshot.png)
+
+- Total number of Customers is 1250
+
+- Total Orders is about 28007
+
+- The age_group 26-35 tops the order
+
+- Food tops the highest sales by product category
+
+- Female gender buys more with about 70% over the male
+
+- Uttar pradesh tops the highest sales by state
+
+![](NINTCHDBPICT000701855690.jpg)
