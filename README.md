@@ -87,6 +87,12 @@ Continuously track key performance indicators (KPIs) and make data-driven decisi
 
 By implementing these recommendations, Rocry shopping company can address its weaknesses, capitalize on its strengths, and drive business growth and success.
 
+
+Thanks for reading! Pls do well to share your view in the comments section, I would be glad to discuss further on this analysis.
+
+Follow me on www.linkedin.com/in/usman-muhammad-4992a3279
+
+
 ![](ima09.jpg)
 
 
